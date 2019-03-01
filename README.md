@@ -16,7 +16,7 @@ The file places each of the 3480 accounts affiliated with IRA and <a href="https
   
   -Unknown
   
-For details of the assignment strategy, see <a href="https://about.twitter.com/en_us/values/elections-integrity.html#data" target="_blank"> the paper </a>.
+For details of the assignment strategy, see <a href="https://github.com/patrick-lee-warren/IRA-Troll-Types/blob/master/Troll_Factories_v2_Linvill_Warren.pdf" target="_blank"> the paper </a>.
 
 Variables (Strings)
 
