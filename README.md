@@ -14,4 +14,5 @@ For details of the assignment strategy, see the paper.
 Variables (Strings)
 
 userid -- The hashed userid, provided by Twitter in their release
+
 filled_atype2 -- The account type category
