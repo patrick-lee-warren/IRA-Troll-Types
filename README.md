@@ -1,15 +1,22 @@
 # IRA-Troll-Types  (Linvill & Warren, 2019)
 
-The file places each of the 3480 accounts affiliated with IRA and released by Twitter into one of four categories
+The file places each of the 3480 accounts affiliated with IRA and <a href="https://about.twitter.com/en_us/values/elections-integrity.html#data" target="_blank"> released by Twitter </a> into one of four categories
+  
   -Hashtag Gamer
+  
   -Right Troll
+  
   -Left Troll
+  
   -Non-English
+  
   -Newsfeed
+  
   -Fearmonger
+  
   -Unknown
   
-For details of the assignment strategy, see the paper.
+For details of the assignment strategy, see <a href="https://about.twitter.com/en_us/values/elections-integrity.html#data" target="_blank"> the paper </a>.
 
 Variables (Strings)
 
