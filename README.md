@@ -23,3 +23,5 @@ Variables (Strings)
 userid -- The hashed userid, provided by Twitter in their release
 
 filled_atype2 -- The account type category
+
+Please cite as:  Linvill, D. and Warren, P. "<a href="https://github.com/patrick-lee-warren/IRA-Troll-Types/blob/master/Troll_Factories_v2_Linvill_Warren.pdf" target="_blank">Troll Factories: Manufacturing Specialized Disinformation on Twitter </a>," January, 2019.
