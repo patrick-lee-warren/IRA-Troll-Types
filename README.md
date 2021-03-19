@@ -24,4 +24,4 @@ userid -- The hashed userid, provided by Twitter in their release
 
 filled_atype2 -- The account type category
 
-Please cite as:  "Troll Factories: Manufacturing Specialized Disinformation on Twitter" Darren Linvill and Patrick Warren. *Journal of Political Communication*, February, 2020). 
+Please cite as:  "Troll Factories: Manufacturing Specialized Disinformation on Twitter" Darren Linvill and Patrick Warren. *Journal of Political Communication*, February, 2020. 
